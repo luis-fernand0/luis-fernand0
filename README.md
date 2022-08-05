@@ -1,12 +1,11 @@
 ## Oi! Meu nome é Luis Fernando
 📚 - Atualmente estou estudando JavaScript, HTML e CSS
-##
-📚 - Cursando o 2° Semestre de Analise e Desenvolvimento de Sistemas
+<p>📚 - Cursando o 2° Semestre de Analise e Desenvolvimento de Sistemas</p>
 
 <div align="center">
   <a href="https://github.com/luis-fernand0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-fernand0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-fernand0&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-fernand0&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
