@@ -1,6 +1,6 @@
 ## Oi! Meu nome é Luis Fernando
 📚 - Atualmente estou estudando JavaScript, HTML e CSS
-<p>📚 - Cursando o 2° Semestre de Analise e Desenvolvimento de Sistemas</p>
+<p>📚 - Cursando o 3° Semestre de Analise e Desenvolvimento de Sistemas</p>
 
 <div align="center">
   <a href="https://github.com/luis-fernand0">
